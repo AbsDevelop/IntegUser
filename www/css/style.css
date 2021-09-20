@@ -1,5 +1,30 @@
 /**/
 
-h2{
-  margin-top: 10px;
+body{
+  background-image: url('fundo.jpg');
+}
+
+#cabecalho{
+  background-color: #32A2B8;
+  color: white;
+  border-bottom: solid white 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#logotipo{
+  text-align: center;
+}
+
+#logo{
+  text-align: center;
+  width: 300px;
+}
+
+.a{
+  color: #32A2B8;
+}
+
+.b{
+  background-color: white;
 }
